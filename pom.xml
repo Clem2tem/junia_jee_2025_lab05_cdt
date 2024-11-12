@@ -13,7 +13,6 @@
         <module>lab05-core</module>
         <module>lab05-data</module>
         <module>lab05-web</module>
-        <module>lab05-web</module>
 
     </modules>
 
@@ -40,6 +39,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>3.1.3</version>
             </plugin>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
