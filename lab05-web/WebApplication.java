@@ -1,2 +1,3 @@
+@SpringBootApplication
 public class WebApplication {
 }
