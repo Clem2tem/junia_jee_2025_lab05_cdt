@@ -1,5 +1,7 @@
 # Lab 05
 
+Members : Clément DE TEMMMERMAN, Mohamed CHIKH
+
 ## Intro
 Several goals for this homework:
 * It is based on the previous practice (code + database)
